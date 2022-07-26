@@ -54,3 +54,4 @@ $connect = mysqli_connect("localhost", "root","", "details");
   8. Jquery
   9. Ajax
   
+Most of the work is copied from stackoverflow and some githubs accounts
